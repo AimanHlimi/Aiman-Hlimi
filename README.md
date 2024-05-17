@@ -17,8 +17,8 @@ Correo Electrónico: (mailto:hlimiaiman26@gmail.com)
 - **Herramientas:** Git, VSCode
 
 ## Bloque de codigo sencillo
-```
+'''
 function test() {
   console.log("Hola Mundo");
 }
-```
+'''
