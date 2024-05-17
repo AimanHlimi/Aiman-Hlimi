@@ -6,7 +6,7 @@
 Soy un desarrollador web. Actualmente estoy cursando el primer año del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (DAW).
 
 ## Contactos:
-Correo Electrónico: mailto:hlimiaiman26@gmail.com
+Correo Electrónico: (mailto:hlimiaiman26@gmail.com)
 
 ## Proyectos Destacados:
 
