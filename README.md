@@ -1,6 +1,6 @@
 # ¡Hola! Soy Aiman Hlimi.
 
-![Imagen de perfil]
+![Gif](https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif)
 
 ## Sobre Mí:
 Soy un desarrollador web. Actualmente estoy cursando el primer año del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (DAW).
@@ -25,3 +25,7 @@ function test() {
 
 ## Etadisticas de GitHub
 ![Estadisticas](http://github-readme-stats.vercel.app/api?username=AimanHlimi&count_private=true&theme=radical)
+
+## Contribuciones Destacadas:
+
+
