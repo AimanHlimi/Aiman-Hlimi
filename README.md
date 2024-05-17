@@ -12,6 +12,6 @@ Correo Electrónico: (mailto:hlimiaiman26@gmail.com)
 
 
 ## Tecnologías y Herramientas:
-- **__Lenguaje de Programación:__** JavaScript, Python
+- **Lenguaje de Programación:** JavaScript, Python
 - **Frameworks:** Node.js
 - **Herramientas:** Git, VSCode
