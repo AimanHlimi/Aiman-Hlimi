@@ -15,3 +15,8 @@ Correo Electrónico: (mailto:hlimiaiman26@gmail.com)
 - **Lenguaje de Programación:** JavaScript, Python
 - **Frameworks:** Node.js
 - **Herramientas:** Git, VSCode
+
+## Bloque de codigo sencillo
+function test() {
+  console.log("Hola Mundo");
+}
