@@ -24,4 +24,4 @@ function test() {
 ```
 
 ## Etadisticas de GitHub
-![Estadisticas](http://github-readme-stats.vercel.app/api?username=AimanHlimi&count_private=true)
+![Estadisticas](http://github-readme-stats.vercel.app/api?username=AimanHlimi&count_private=true&theme=jolly)
