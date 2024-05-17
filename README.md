@@ -24,4 +24,4 @@ function test() {
 ```
 
 ## Etadisticas de GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAimanHlimi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Estadisticas](http://github-readme-stats.vercel.app/api?username=AimanHlimi&count_private=true)
